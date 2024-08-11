@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Portfolio</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<div style="width: 1920px; height: 5647px; position: relative; background: white">
+  <div style="left: 109px; top: 698px; position: absolute; color: #232323; font-size: 40px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">Categorias</div>
+  <div style="left: 109px; top: 1193px; position: absolute; color: #232323; font-size: 40px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">Eventos Populares</div>
+  <div style="width: 170px; height: 170px; left: 753px; top: 797px; position: absolute; border-radius: 120px; overflow: hidden; justify-content: center; align-items: center; display: inline-flex">
+    <img style="width: 170px; height: 170px; border-radius: 9999px" src="https://via.placeholder.com/170x170" />
+  </div>
+  <div style="width: 170px; height: 170px; left: 511px; top: 797px; position: absolute; border-radius: 120px; overflow: hidden; justify-content: center; align-items: center; display: inline-flex">
+    <img style="width: 170px; height: 170px; border-radius: 9999px" src="https://via.placeholder.com/170x170" />
+  </div>
+  <div style="width: 170px; height: 170px; left: 269px; top: 797px; position: absolute; border-radius: 120px; overflow: hidden; justify-content: center; align-items: center; display: inline-flex">
+    <img style="width: 170px; height: 170px" src="https://via.placeholder.com/170x170" />
+  </div>
+  <div style="width: 170px; height: 170px; left: 995px; top: 797px; position: absolute; border-radius: 120px; overflow: hidden; justify-content: center; align-items: center; display: inline-flex">
+    <img style="width: 170px; height: 170px; border-radius: 9999px" src="https://via.placeholder.com/170x170" />
+  </div>
+  <div style="width: 170px; height: 170px; left: 1237px; top: 797px; position: absolute; border-radius: 120px; overflow: hidden; justify-content: center; align-items: center; display: inline-flex">
+    <img style="width: 170px; height: 170px; border-radius: 9999px" src="https://via.placeholder.com/170x170" />
+  </div>
+  <div style="width: 170px; height: 170px; left: 1479px; top: 797px; position: absolute; border-radius: 120px; overflow: hidden; justify-content: center; align-items: center; display: inline-flex">
+    <img style="width: 170px; height: 170px; border-radius: 9999px" src="https://via.placeholder.com/170x170" />
+  </div>
+  <div style="width: 118px; left: 295px; top: 1000px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Festivais<br/>e Feiras</div>
+  <div style="width: 144px; left: 524px; top: 1000px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Exposições e Mostras</div>
+  <div style="width: 175px; left: 750px; top: 1000px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Performances Artísticas</div>
+  <div style="width: 187px; left: 1228px; top: 1000px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Eventos Gastronómicos</div>
+  <div style="width: 175px; left: 1476px; top: 1000px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Eventos Tradicionais</div>
+  <div style="width: 175px; left: 992px; top: 1000px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Eventos <br/>Desportivos</div>
+  <div style="width: 81px; height: 37px; left: 110px; top: 1272px; position: absolute">
+    <div style="width: 81px; left: 0px; top: 7px; position: absolute; text-align: center; color: #232323; font-size: 20px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Hoje</div>
+    <div style="width: 81px; height: 37px; left: 0px; top: 0px; position: absolute; border-radius: 18.50px; border: 2px #232323 solid"></div>
+  </div>
+  <div style="width: 121px; height: 37px; left: 211px; top: 1272px; position: absolute">
+    <div style="width: 118px; left: 1px; top: 7px; position: absolute; text-align: center; color: #232323; font-size: 20px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Amanhã</div>
+    <div style="width: 121px; height: 37px; left: 0px; top: 0px; position: absolute; border-radius: 18.50px; border: 2px #232323 solid"></div>
+  </div>
+  <div style="width: 96px; height: 37px; left: 566px; top: 1272px; position: absolute">
+    <div style="width: 96px; left: 0px; top: 7px; position: absolute; text-align: center; color: #232323; font-size: 20px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Grátis</div>
+    <div style="width: 96px; height: 37px; left: 0px; top: 0px; position: absolute; border-radius: 18.50px; border: 2px #232323 solid"></div>
+  </div>
+  <div style="width: 87px; height: 37px; left: 682px; top: 1272px; position: absolute">
+    <div style="width: 87px; left: 0px; top: 7px; position: absolute; text-align: center; color: #232323; font-size: 20px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Pago</div>
+    <div style="width: 87px; height: 37px; left: 0px; top: 0px; position: absolute; border-radius: 18.50px; border: 2px #232323 solid"></div>
+  </div>
+  <div style="width: 194px; height: 37px; left: 352px; top: 1272px; position: absolute">
+    <div style="width: 167px; left: 14px; top: 7px; position: absolute; text-align: center; color: #232323; font-size: 20px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Fim de Semana</div>
+    <div style="width: 194px; height: 37px; left: 0px; top: 0px; position: absolute; border-radius: 18.50px; border: 2px #232323 solid"></div>
+  </div>
+  <div style="width: 37px; height: 37px; padding-top: 7.71px; padding-bottom: 7.71px; left: 1709px; top: 864px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 21.58px; height: 10.79px; transform: rotate(-90deg); transform-origin: 0 0; border: 5px #232323 solid"></div>
+  </div>
+  <div style="width: 37px; height: 37px; padding-top: 7.71px; padding-bottom: 7.71px; left: 210px; top: 901px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; justify-content: center; align-items: center; display: inline-flex">
+    <div style="width: 21.58px; height: 10.79px; transform: rotate(-90deg); transform-origin: 0 0; border: 5px #232323 solid"></div>
+  </div>
+  <div style="width: 1953px; height: 578px; left: -15px; top: 78px; position: absolute">
+    <img style="width: 1920px; height: 561px; left: 15px; top: 0px; position: absolute" src="https://via.placeholder.com/1920x561" />
+    <div style="width: 1953px; height: 34px; left: 0px; top: 544px; position: absolute; background: white; box-shadow: 10px 10px 10px; filter: blur(10px)"></div>
+    <div style="width: 1920px; height: 561px; left: 15px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.50)"></div>
+    <div style="width: 905px; height: 128px; left: 285px; top: 183px; position: absolute; color: white; font-size: 48px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">Cultura que Transborda<br/>Cultura para todos </div>
+  </div>
+  <div style="width: 1136px; height: 80px; left: 392px; top: 438px; position: absolute">
+    <div style="width: 1136px; height: 80px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 10px"></div>
+    <div style="width: 836px; height: 80px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 10px"></div>
+    <div style="width: 80px; height: 0px; left: 836px; top: 80px; position: absolute; transform: rotate(-90deg); transform-origin: 0 0; border: 1px #9C9C9C solid"></div>
+    <div style="width: 32px; height: 32px; left: 24px; top: 24px; position: absolute; background: #5A5A5A"></div>
+    <div style="left: 79px; top: 28px; position: absolute; color: #ADADAD; font-size: 20px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Pesquise Categorias, Eventos, Locais...</div>
+    <div style="left: 897px; top: 28px; position: absolute; color: #5A5A5A; font-size: 20px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Castelo Branco</div>
+    <div style="width: 46px; height: 46px; padding-left: 8.62px; padding-right: 8.62px; padding-top: 5.75px; padding-bottom: 5.75px; left: 849px; top: 17px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 28.75px; height: 34.50px; position: relative">
+        <div style="width: 9.58px; height: 9.58px; left: 9.58px; top: 9.58px; position: absolute; border: 3px #5A5A5A solid"></div>
+        <div style="width: 28.75px; height: 34.50px; left: 0px; top: 0px; position: absolute; border: 3px #5A5A5A solid"></div>
+      </div>
+    </div>
+    <div style="width: 24px; height: 24px; left: 1090px; top: 28px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div style="flex: 1 1 0; align-self: stretch; padding-left: 5px; padding-right: 5px; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 14px; height: 7px; border: 2.50px #5A5A5A solid"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 68px; height: 80px; left: 1460px; top: 438px; position: absolute; background: rgba(217, 217, 217, 0); border-top-left-radius: 10px; border-top-right-radius: 10px"></div>
+  <div style="width: 1452px; height: 305px; left: 234px; top: 772px; position: absolute; background: rgba(217, 217, 217, 0)"></div>
+  <div style="width: 512px; height: 344px; left: 164px; top: 2090px; position: absolute">
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 344px; left: 704px; top: 2090px; position: absolute">
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 344px; left: 1244px; top: 2090px; position: absolute">
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 1921px; height: 546px; left: 0px; top: 2023px; position: absolute; background: white; box-shadow: 200px 200px 200px; filter: blur(200px)"></div>
+  <div style="width: 1921px; height: 308px; left: 0px; top: 2254px; position: absolute; background: white"></div>
+  <div style="width: 512px; height: 344px; left: 164px; top: 1346px; position: absolute">
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 454px; height: 120px; left: 29px; top: 206px; position: absolute">
+      <div style="width: 363px; left: 91px; top: 0px; position: absolute; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Patas de Ganso - Pedro Teixeira da Mota</div>
+      <div style="width: 363px; left: 91px; top: 66px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Cine-Teatro Avenida</div>
+      <div style="width: 48px; left: 122px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">17€</div>
+      <div style="width: 261px; left: 193px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">09:30 PM</div>
+      <div style="width: 62px; height: 62px; left: 0px; top: 6px; position: absolute">
+        <div style="width: 52px; left: 5px; top: 8px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">JUN</div>
+        <div style="width: 32px; left: 15px; top: 33px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">20</div>
+        <div style="width: 62px; height: 6px; left: 0px; top: 0px; position: absolute; background: #E74C3C; border-radius: 50px"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-left: 1.20px; padding-right: 1.20px; padding-top: 3.46px; padding-bottom: 3.46px; left: 91px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 21.60px; height: 17.08px; border: 2px #606060 solid"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-top: 3px; padding-bottom: 3px; padding-left: 3.50px; padding-right: 2.50px; left: 165px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 18px; height: 18px; border: 2px #606060 solid"></div>
+      </div>
+    </div>
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 344px; left: 164px; top: 1718px; position: absolute">
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 475px; height: 120px; left: 29px; top: 206px; position: absolute">
+      <div style="width: 363px; left: 91px; top: 0px; position: absolute; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Castelo Branco Moda’24 -<br/>Desfile de Moda</div>
+      <div style="width: 363px; left: 91px; top: 66px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Estacionamento Superior Docas </div>
+      <div style="width: 55px; left: 122px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Grátis</div>
+      <div style="width: 261px; left: 214px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">10:30 PM</div>
+      <div style="width: 62px; height: 62px; left: 0px; top: 6px; position: absolute">
+        <div style="width: 52px; left: 5px; top: 8px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">MAI</div>
+        <div style="width: 32px; left: 15px; top: 33px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">31</div>
+        <div style="width: 62px; height: 6px; left: 0px; top: 0px; position: absolute; background: #E74C3C; border-radius: 50px"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-left: 1.20px; padding-right: 1.20px; padding-top: 3.46px; padding-bottom: 3.46px; left: 91px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 21.60px; height: 17.08px; border: 2px #606060 solid"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-top: 3px; padding-bottom: 3px; padding-left: 3.50px; padding-right: 2.50px; left: 186px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 18px; height: 18px; border: 2px #606060 solid"></div>
+      </div>
+    </div>
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 344px; left: 704px; top: 1346px; position: absolute">
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 454px; height: 120px; left: 29px; top: 206px; position: absolute">
+      <div style="width: 363px; left: 91px; top: 0px; position: absolute; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Nancy em Vietnam - Companhia Altraste</div>
+      <div style="width: 363px; left: 91px; top: 66px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Cine-Teatro Avenida</div>
+      <div style="width: 48px; left: 122px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">6€</div>
+      <div style="width: 261px; left: 187px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">09:30 PM</div>
+      <div style="width: 62px; height: 62px; left: 0px; top: 6px; position: absolute">
+        <div style="width: 52px; left: 5px; top: 8px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">JUN</div>
+        <div style="width: 32px; left: 15px; top: 33px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">19</div>
+        <div style="width: 62px; height: 6px; left: 0px; top: 0px; position: absolute; background: #E74C3C; border-radius: 50px"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-left: 1.20px; padding-right: 1.20px; padding-top: 3.46px; padding-bottom: 3.46px; left: 91px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 21.60px; height: 17.08px; border: 2px #606060 solid"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-top: 3px; padding-bottom: 3px; padding-left: 3.50px; padding-right: 2.50px; left: 159px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 18px; height: 18px; border: 2px #606060 solid"></div>
+      </div>
+    </div>
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 344px; left: 704px; top: 1718px; position: absolute">
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 454px; height: 120px; left: 29px; top: 206px; position: absolute">
+      <div style="width: 363px; left: 91px; top: 0px; position: absolute; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Covilhã Up Hill 2024 - <br/>Prova de Atletismo</div>
+      <div style="width: 363px; left: 91px; top: 66px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Estádio Santos
+      Pinto - Covilhã</div>
+      <div style="width: 48px; left: 122px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">12€</div>
+      <div style="width: 261px; left: 193px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">09:00 AM</div>
+      <div style="width: 62px; height: 62px; left: 0px; top: 6px; position: absolute">
+        <div style="width: 52px; left: 5px; top: 8px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">JUN</div>
+        <div style="width: 32px; left: 15px; top: 33px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">16</div>
+        <div style="width: 62px; height: 6px; left: 0px; top: 0px; position: absolute; background: #E74C3C; border-radius: 50px"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-left: 1.20px; padding-right: 1.20px; padding-top: 3.46px; padding-bottom: 3.46px; left: 91px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 21.60px; height: 17.08px; border: 2px #606060 solid"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-top: 3px; padding-bottom: 3px; padding-left: 3.50px; padding-right: 2.50px; left: 165px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 18px; height: 18px; border: 2px #606060 solid"></div>
+      </div>
+    </div>
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 344px; left: 1244px; top: 1346px; position: absolute">
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 475px; height: 120px; left: 29px; top: 206px; position: absolute">
+      <div style="width: 363px; left: 91px; top: 0px; position: absolute; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Resistência - Feira dos Sabores do Tejo 2024 </div>
+      <div style="width: 363px; left: 91px; top: 66px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Vila Velha de Rodão</div>
+      <div style="width: 67px; left: 122px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Grátis</div>
+      <div style="width: 261px; left: 214px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">11:30 PM</div>
+      <div style="width: 62px; height: 62px; left: 0px; top: 6px; position: absolute">
+        <div style="width: 52px; left: 5px; top: 8px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">JUN</div>
+        <div style="width: 32px; left: 15px; top: 33px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">28</div>
+        <div style="width: 62px; height: 6px; left: 0px; top: 0px; position: absolute; background: #E74C3C; border-radius: 50px"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-left: 1.20px; padding-right: 1.20px; padding-top: 3.46px; padding-bottom: 3.46px; left: 91px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 21.60px; height: 17.08px; border: 2px #606060 solid"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-top: 3px; padding-bottom: 3px; padding-left: 3.50px; padding-right: 2.50px; left: 186px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 18px; height: 18px; border: 2px #606060 solid"></div>
+      </div>
+    </div>
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 344px; left: 1244px; top: 1718px; position: absolute">
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 475px; height: 120px; left: 29px; top: 206px; position: absolute">
+      <div style="width: 363px; left: 91px; top: 0px; position: absolute; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">OBOÉ + - Novas Obras Para Oboé e Eletrónica<br/></div>
+      <div style="width: 363px; left: 91px; top: 66px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Escola Superior de Artes Aplicadas</div>
+      <div style="width: 53px; left: 122px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Grátis</div>
+      <div style="width: 261px; left: 214px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">05:00 PM</div>
+      <div style="width: 62px; height: 62px; left: 0px; top: 6px; position: absolute">
+        <div style="width: 52px; left: 5px; top: 8px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">JUN</div>
+        <div style="width: 32px; left: 15px; top: 33px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">21</div>
+        <div style="width: 62px; height: 6px; left: 0px; top: 0px; position: absolute; background: #E74C3C; border-radius: 50px"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-left: 1.20px; padding-right: 1.20px; padding-top: 3.46px; padding-bottom: 3.46px; left: 91px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 21.60px; height: 17.08px; border: 2px #606060 solid"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-top: 3px; padding-bottom: 3px; padding-left: 3.50px; padding-right: 2.50px; left: 186px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 18px; height: 18px; border: 2px #606060 solid"></div>
+      </div>
+    </div>
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 70px; left: 704px; top: 2102px; position: absolute">
+    <div style="width: 512px; height: 70px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 50px"></div>
+    <div style="left: 204px; top: 21px; position: absolute; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Ver Mais</div>
+  </div>
+  <img style="width: 1920px; height: 344px; left: 0px; top: 2330px; position: absolute" src="https://via.placeholder.com/1920x344" />
+  <div style="width: 1920px; height: 344px; left: 0px; top: 2330px; position: absolute; background: rgba(0, 0, 0, 0.70)"></div>
+  <div style="width: 707px; height: 162px; left: 607px; top: 2421px; position: absolute">
+    <div style="width: 707px; height: 58px; left: 0px; top: 0px; position: absolute; color: white; font-size: 48px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">Sem saber o que fazer hoje?<br/></div>
+    <div style="width: 524px; height: 28px; left: 92px; top: 62px; position: absolute; color: white; font-size: 24px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Use o botão de escolha de evento aleatório.</div>
+    <div style="width: 284px; height: 53px; left: 212px; top: 109px; position: absolute">
+      <div style="width: 284px; height: 53px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 50px"></div>
+      <div style="left: 57px; top: 15px; position: absolute; color: #232323; font-size: 20px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Evento Aleatório</div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 344px; left: 164px; top: 4481px; position: absolute">
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 344px; left: 704px; top: 4481px; position: absolute">
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 344px; left: 1244px; top: 4481px; position: absolute">
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <img style="width: 255px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px" src="https://via.placeholder.com/255x191" />
+    <img style="width: 257px; height: 191px; left: 255px; top: 0px; position: absolute; border-top-left-radius: 20px" src="https://via.placeholder.com/257x191" />
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 1921px; height: 546px; left: 0px; top: 4414px; position: absolute; background: white; box-shadow: 200px 200px 200px; filter: blur(200px)"></div>
+  <div style="width: 512px; height: 344px; left: 164px; top: 3737px; position: absolute">
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 454px; height: 120px; left: 29px; top: 206px; position: absolute">
+      <div style="width: 363px; left: 91px; top: 0px; position: absolute; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Bárbara Tinoco - Antes Dela Dizer Que Sim</div>
+      <div style="width: 363px; left: 91px; top: 66px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Cine-Teatro Avenida</div>
+      <div style="width: 48px; left: 122px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">16€</div>
+      <div style="width: 261px; left: 193px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">09:30 PM</div>
+      <div style="width: 62px; height: 62px; left: 0px; top: 6px; position: absolute">
+        <div style="width: 52px; left: 5px; top: 8px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">SET</div>
+        <div style="width: 32px; left: 15px; top: 33px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">21</div>
+        <div style="width: 62px; height: 6px; left: 0px; top: 0px; position: absolute; background: #E74C3C; border-radius: 50px"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-left: 1.20px; padding-right: 1.20px; padding-top: 3.46px; padding-bottom: 3.46px; left: 91px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 21.60px; height: 17.08px; border: 2px #606060 solid"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-top: 3px; padding-bottom: 3px; padding-left: 3.50px; padding-right: 2.50px; left: 165px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 18px; height: 18px; border: 2px #606060 solid"></div>
+      </div>
+    </div>
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 344px; left: 164px; top: 4109px; position: absolute">
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 475px; height: 120px; left: 29px; top: 206px; position: absolute">
+      <div style="width: 363px; left: 91px; top: 0px; position: absolute; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Exposição interpretARTE - Rosário Bello</div>
+      <div style="width: 363px; left: 91px; top: 66px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Fábrica da Criatividade</div>
+      <div style="width: 55px; left: 122px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Grátis</div>
+      <div style="width: 261px; left: 214px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">06:00 PM</div>
+      <div style="width: 62px; height: 62px; left: 0px; top: 6px; position: absolute">
+        <div style="width: 52px; left: 5px; top: 8px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">MAI</div>
+        <div style="width: 32px; left: 15px; top: 33px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">17</div>
+        <div style="width: 62px; height: 6px; left: 0px; top: 0px; position: absolute; background: #E74C3C; border-radius: 50px"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-left: 1.20px; padding-right: 1.20px; padding-top: 3.46px; padding-bottom: 3.46px; left: 91px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 21.60px; height: 17.08px; border: 2px #606060 solid"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-top: 3px; padding-bottom: 3px; padding-left: 3.50px; padding-right: 2.50px; left: 186px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 18px; height: 18px; border: 2px #606060 solid"></div>
+      </div>
+    </div>
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 344px; left: 704px; top: 3737px; position: absolute">
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 474px; height: 120px; left: 29px; top: 206px; position: absolute">
+      <div style="width: 363px; left: 91px; top: 0px; position: absolute; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Desfile Bordado de Castelo Branco - Miss Queen Portu...</div>
+      <div style="width: 363px; left: 91px; top: 66px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Jardim do Paço</div>
+      <div style="width: 61px; left: 122px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Grátis</div>
+      <div style="width: 261px; left: 213px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">07:00 PM</div>
+      <div style="width: 62px; height: 62px; left: 0px; top: 6px; position: absolute">
+        <div style="width: 52px; left: 5px; top: 8px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">JUN</div>
+        <div style="width: 32px; left: 15px; top: 33px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">13</div>
+        <div style="width: 62px; height: 6px; left: 0px; top: 0px; position: absolute; background: #E74C3C; border-radius: 50px"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-left: 1.20px; padding-right: 1.20px; padding-top: 3.46px; padding-bottom: 3.46px; left: 91px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 21.60px; height: 17.08px; border: 2px #606060 solid"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-top: 3px; padding-bottom: 3px; padding-left: 3.50px; padding-right: 2.50px; left: 185px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 18px; height: 18px; border: 2px #606060 solid"></div>
+      </div>
+    </div>
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 513px; height: 344px; left: 704px; top: 4109px; position: absolute">
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <img style="width: 236px; height: 191px; left: 277px; top: 0px; position: absolute; border-top-left-radius: 20px" src="https://via.placeholder.com/236x191" />
+    <div style="width: 454px; height: 120px; left: 29px; top: 206px; position: absolute">
+      <div style="width: 363px; left: 91px; top: 0px; position: absolute; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">16º Festival Internacional de Tunas Universtárias de Cast...</div>
+      <div style="width: 363px; left: 91px; top: 66px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Cine-Teatro Avenida</div>
+      <div style="width: 48px; left: 122px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">6€</div>
+      <div style="width: 261px; left: 187px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">10:00 AM</div>
+      <div style="width: 62px; height: 62px; left: 0px; top: 6px; position: absolute">
+        <div style="width: 52px; left: 5px; top: 8px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">MAI</div>
+        <div style="width: 32px; left: 15px; top: 33px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">24</div>
+        <div style="width: 62px; height: 6px; left: 0px; top: 0px; position: absolute; background: #E74C3C; border-radius: 50px"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-left: 1.20px; padding-right: 1.20px; padding-top: 3.46px; padding-bottom: 3.46px; left: 91px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 21.60px; height: 17.08px; border: 2px #606060 solid"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-top: 3px; padding-bottom: 3px; padding-left: 3.50px; padding-right: 2.50px; left: 159px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 18px; height: 18px; border: 2px #606060 solid"></div>
+      </div>
+    </div>
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 344px; left: 1244px; top: 3737px; position: absolute">
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 475px; height: 120px; left: 29px; top: 206px; position: absolute">
+      <div style="width: 363px; left: 91px; top: 0px; position: absolute; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Ler a Dois - Hora do Conto Infantil</div>
+      <div style="width: 363px; left: 91px; top: 66px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Biblioteca de Castelo Branco</div>
+      <div style="width: 67px; left: 122px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Grátis</div>
+      <div style="width: 261px; left: 214px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">06:00 PM</div>
+      <div style="width: 62px; height: 62px; left: 0px; top: 6px; position: absolute">
+        <div style="width: 52px; left: 5px; top: 8px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">JUN</div>
+        <div style="width: 32px; left: 15px; top: 33px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">20</div>
+        <div style="width: 62px; height: 6px; left: 0px; top: 0px; position: absolute; background: #E74C3C; border-radius: 50px"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-left: 1.20px; padding-right: 1.20px; padding-top: 3.46px; padding-bottom: 3.46px; left: 91px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 21.60px; height: 17.08px; border: 2px #606060 solid"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-top: 3px; padding-bottom: 3px; padding-left: 3.50px; padding-right: 2.50px; left: 186px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 18px; height: 18px; border: 2px #606060 solid"></div>
+      </div>
+    </div>
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 344px; left: 1244px; top: 4109px; position: absolute">
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; background: #ADADAD; border-top-left-radius: 20px; border-top-right-radius: 20px"></div>
+    <img style="width: 512px; height: 191px; left: 0px; top: 0px; position: absolute; border-top-left-radius: 20px; border-top-right-radius: 20px" src="https://via.placeholder.com/512x191" />
+    <div style="width: 475px; height: 120px; left: 29px; top: 206px; position: absolute">
+      <div style="width: 363px; left: 91px; top: 0px; position: absolute; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Felizmente há Luar - Versão Semi-Encenada<br/></div>
+      <div style="width: 363px; left: 91px; top: 66px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Cine-Teatro Avenida</div>
+      <div style="width: 53px; left: 122px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Grátis</div>
+      <div style="width: 261px; left: 214px; top: 97px; position: absolute; color: #606060; font-size: 18px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">09:30 PM</div>
+      <div style="width: 62px; height: 62px; left: 0px; top: 6px; position: absolute">
+        <div style="width: 52px; left: 5px; top: 8px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">MAI</div>
+        <div style="width: 32px; left: 15px; top: 33px; position: absolute; text-align: center; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">18</div>
+        <div style="width: 62px; height: 6px; left: 0px; top: 0px; position: absolute; background: #E74C3C; border-radius: 50px"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-left: 1.20px; padding-right: 1.20px; padding-top: 3.46px; padding-bottom: 3.46px; left: 91px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 21.60px; height: 17.08px; border: 2px #606060 solid"></div>
+      </div>
+      <div style="width: 24px; height: 24px; padding-top: 3px; padding-bottom: 3px; padding-left: 3.50px; padding-right: 2.50px; left: 186px; top: 96px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 18px; height: 18px; border: 2px #606060 solid"></div>
+      </div>
+    </div>
+    <div style="width: 512px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <div style="width: 48px; height: 48px; left: 451px; top: 14px; position: absolute">
+      <div style="width: 48px; height: 48px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.85px; height: 24px; left: 11.08px; top: 12.92px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+  </div>
+  <div style="width: 512px; height: 70px; left: 704px; top: 4493px; position: absolute">
+    <div style="width: 512px; height: 70px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 50px"></div>
+    <div style="left: 204px; top: 21px; position: absolute; color: #232323; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Ver Mais</div>
+  </div>
+  <div style="left: 138px; top: 2873px; position: absolute; color: #232323; font-size: 40px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">Evento da Semana</div>
+  <div style="left: 109px; top: 3658px; position: absolute; color: #232323; font-size: 40px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">Eventos Recomendados</div>
+  <div style="width: 1920px; height: 532px; left: 0px; top: 5115px; position: absolute">
+    <div style="width: 1920px; height: 532px; left: 0px; top: 0px; position: absolute; background: #232323"></div>
+    <div style="width: 1100px; height: 0px; left: 410px; top: 176px; position: absolute; border: 3px white solid"></div>
+    <img style="width: 174px; height: 64px; left: 874px; top: 52px; position: absolute" src="https://via.placeholder.com/174x64" />
+    <img style="width: 195px; height: 92px; left: 410px; top: 38px; position: absolute" src="https://via.placeholder.com/195x92" />
+    <img style="width: 234px; height: 135px; left: 1325px; top: 16px; position: absolute" src="https://via.placeholder.com/234x135" />
+    <div style="width: 360px; height: 20px; left: 410px; top: 215px; position: absolute; color: white; font-size: 20px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Informações da Instituição</div>
+    <div style="width: 180px; height: 20px; left: 859px; top: 215px; position: absolute; color: white; font-size: 20px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Ajuda e Suporte </div>
+    <div style="width: 129px; height: 20px; left: 1299px; top: 215px; position: absolute; color: white; font-size: 20px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Categorias</div>
+    <div style="width: 166px; height: 19px; left: 429px; top: 253px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Sobre</div>
+    <div style="width: 182px; height: 19px; left: 878px; top: 253px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Suporte ao Cliente</div>
+    <div style="width: 192px; height: 19px; left: 1318px; top: 253px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Festivais e Feiras</div>
+    <div style="width: 166px; height: 19px; left: 429px; top: 290px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Contactos</div>
+    <div style="width: 166px; height: 20px; left: 429px; top: 326px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">CMCB</div>
+    <div style="width: 182px; height: 20px; left: 878px; top: 290px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">FAQ</div>
+    <div style="width: 192px; height: 20px; left: 1318px; top: 290px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Exposições e Mostras</div>
+    <div style="width: 166px; height: 20px; left: 429px; top: 364px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Mobicab</div>
+    <div style="width: 182px; height: 20px; left: 878px; top: 328px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Termos de Serviço</div>
+    <div style="width: 192px; height: 20px; left: 1318px; top: 328px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Performances Artisticas</div>
+    <div style="width: 166px; height: 20px; left: 429px; top: 401px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Binas</div>
+    <div style="width: 182px; height: 20px; left: 878px; top: 365px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Política de Privacidade</div>
+    <div style="width: 192px; height: 20px; left: 1318px; top: 365px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Eventos Desportivos</div>
+    <div style="width: 166px; height: 20px; left: 429px; top: 438px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Castelo Branco 2030</div>
+    <div style="width: 182px; height: 20px; left: 878px; top: 438px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Alteração de Estatuto</div>
+    <div style="width: 192px; height: 20px; left: 1318px; top: 438px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Eventos Tradicionais</div>
+    <div style="width: 182px; height: 20px; left: 878px; top: 402px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Proteção de Dados</div>
+    <div style="width: 192px; height: 20px; left: 1318px; top: 402px; position: absolute; color: white; font-size: 16px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Eventos Gastronómicos</div>
+  </div>
+  <div style="width: 1921px; height: 344px; left: 0px; top: 4721px; position: absolute">
+    <img style="width: 1921px; height: 344px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/1921x344" />
+    <div style="width: 1920px; height: 344px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.70)"></div>
+    <div style="width: 820px; height: 58px; left: 550px; top: 91px; position: absolute; text-align: center; color: white; font-size: 48px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">Deseja publicar eventos?</div>
+    <div style="width: 559px; height: 28px; left: 681px; top: 153px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Montserrat; font-weight: 400; word-wrap: break-word">Submeta um pedido de alteração de estatuto. </div>
+    <div style="width: 284px; height: 53px; left: 818px; top: 200px; position: absolute">
+      <div style="width: 284px; height: 53px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 50px"></div>
+      <div style="left: 52px; top: 15px; position: absolute; color: #232323; font-size: 20px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Submeter Pedido</div>
+    </div>
+  </div>
+  <div style="width: 1593px; height: 508px; left: 164px; top: 2952px; position: absolute">
+    <div style="width: 1593px; height: 508px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 6px 7px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+    <img style="width: 406px; height: 508px; left: 0px; top: 0px; position: absolute; border-radius: 20px" src="https://via.placeholder.com/406x508" />
+    <div style="width: 954px; left: 562px; top: 24px; position: absolute; color: #232323; font-size: 36px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Patas de Ganso - Pedro Teixeira da Mota</div>
+    <div style="width: 954px; left: 562px; top: 79px; position: absolute; color: #606060; font-size: 32px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Cine-Teatro Avenida</div>
+    <div style="width: 48.24px; height: 48.24px; left: 344.79px; top: 13.76px; position: absolute">
+      <div style="width: 48.24px; height: 48.24px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+      <div style="width: 25.98px; height: 24.12px; left: 11.13px; top: 12.99px; position: absolute; background: rgba(255, 255, 255, 0); border: 2.50px #232323 solid"></div>
+    </div>
+    <div style="width: 855px; height: 244px; left: 440px; top: 163px; position: absolute; color: #606060; font-size: 20px; font-family: Montserrat; font-weight: 400; line-height: 33px; word-wrap: break-word">Pata de Ganso é o terceiro solo do humorista Pedro Teixeira da Mota.     Usando a capacidade de se observar a si próprio "visto de fora", Pedro aponta as suas próprias limitações e fragilidades.     Depois de Impasse, onde expunha as dúvidas que tinha sobre a fase da vida em que se encontrava, e de Caramel Macchiato, onde achou que já sabia onde estava, agora, em Pata de Ganso, Pedro apercebe-se que a pessoa que acredita que se está a tornar pode não ser a que sempre idealizou.</div>
+    <div style="width: 264px; height: 53px; left: 1295px; top: 434px; position: absolute; background: #232323; border-radius: 50px"></div>
+    <div style="left: 1359px; top: 449px; position: absolute; color: white; font-size: 20px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">Comprar Bilhete</div>
+    <div style="width: 24px; height: 24px; padding-left: 2.40px; padding-right: 2.40px; padding-top: 3.58px; padding-bottom: 3.58px; left: 1325px; top: 449px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 19.20px; height: 16.85px; border: 2px white solid"></div>
+    </div>
+    <div style="width: 113px; left: 494px; top: 447px; position: absolute; color: #606060; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">17€</div>
+    <div style="width: 261px; left: 600px; top: 447px; position: absolute; color: #606060; font-size: 24px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">09:30 PM</div>
+    <div style="width: 36px; height: 36px; padding-left: 1.80px; padding-right: 1.80px; padding-top: 5.19px; padding-bottom: 5.19px; left: 448px; top: 443px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 32.40px; height: 25.62px; border: 3px #606060 solid"></div>
+    </div>
+    <div style="width: 36px; height: 36px; padding-top: 4.50px; padding-bottom: 4.50px; padding-left: 5.25px; padding-right: 3.75px; left: 554px; top: 443px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+      <div style="width: 27px; height: 27px; border: 3px #606060 solid"></div>
+    </div>
+    <div style="width: 87px; height: 87px; left: 440px; top: 33px; position: absolute">
+      <div style="width: 72.97px; height: 40.69px; left: 7.02px; top: 11.23px; position: absolute; text-align: center; color: #232323; font-size: 32px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">JUN</div>
+      <div style="width: 44.90px; height: 40.69px; left: 21.05px; top: 46.31px; position: absolute; text-align: center; color: #232323; font-size: 32px; font-family: Montserrat; font-weight: 600; word-wrap: break-word">21</div>
+      <div style="width: 87px; height: 8.42px; left: 0px; top: 0px; position: absolute; background: #E74C3C; border-radius: 50px"></div>
+    </div>
+  </div>
+  <div style="width: 1920px; height: 78px; left: 0px; top: 0px; position: absolute">
+    <div style="width: 1920px; height: 78px; left: 0px; top: 0px; position: absolute; background: #232323"></div>
+    <div style="width: 90px; height: 78px; left: 1193px; top: 0px; position: absolute; background: rgba(217, 217, 217, 0)"></div>
+    <img style="width: 138px; height: 50px; left: 109px; top: 14px; position: absolute" src="https://via.placeholder.com/138x50" />
+    <div style="left: 1207px; top: 25px; position: absolute; color: white; font-size: 22px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Início</div>
+    <div style="width: 90px; height: 4px; left: 1193px; top: 74px; position: absolute; background: white"></div>
+    <div style="left: 1316px; top: 25px; position: absolute; color: white; font-size: 22px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Eventos</div>
+    <div style="left: 1453px; top: 25px; position: absolute; color: white; font-size: 22px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Sobre</div>
+    <div style="left: 1566px; top: 25px; position: absolute; color: white; font-size: 22px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Contactos</div>
+    <div style="width: 46px; height: 46px; left: 1722px; top: 16px; position: absolute">
+      <div style="width: 34.50px; height: 34.50px; left: 5.75px; top: 5.75px; position: absolute; background: white; border-radius: 52px"></div>
+      <div style="width: 15.33px; height: 15.33px; left: 15.33px; top: 11.50px; position: absolute; background: #232323; border-radius: 9999px"></div>
+      <img style="width: 24.09px; height: 11.50px; left: 10.95px; top: 28.75px; position: absolute; border-radius: 0.25px" src="https://via.placeholder.com/24x11" />
+    </div>
+    <div style="width: 119px; height: 78px; left: 1301px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0)"></div>
+    <div style="width: 90px; height: 78px; left: 1193px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0)"></div>
+    <div style="width: 97px; height: 78px; left: 1437px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0)"></div>
+    <div style="width: 146px; height: 78px; left: 1550px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0)"></div>
+    <div style="width: 57px; height: 78px; left: 1716px; top: 0px; position: absolute; background: rgba(255, 255, 255, 0)"></div>
+  </div>
+</div>
+<!-- Footer -->
+<footer class="w3-center w3-light-grey w3-padding-32">
+  <p>Powered by <a href="https://www.instagram.com/wrldpires/" title="instagram" target="_blank">wrldpires</a></p>
+</footer>
+
+</body>
+</html>
